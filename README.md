@@ -31,10 +31,10 @@ NOTE: We have not  used any pre-trained model using Transfer learning. All the m
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-	- We used data The training accuracy seems to be nearly ~93%.
-	- The validation accuracy is nearly ~80%.
-        - We Rectified class imbalances present in the training dataset with Augmentor library. Model Building & training on the rectified class imbalance data: This has helped treat the overfitting to quite extent.
-        - With an increase in more epochs and more layers , using regularisation techniques like [Dropout and l2], normalisation we see an increase in efficiency of model .
+- We used data The training accuracy seems to be nearly ~93%.
+- The validation accuracy is nearly ~80%.
+- We Rectified class imbalances present in the training dataset with Augmentor library. Model Building & training on the rectified class imbalance data: This has helped treat the overfitting to quite extent.
+- With an increase in more epochs and more layers , using regularisation techniques like [Dropout and l2], normalisation we see an increase in efficiency of model .
 
     
 

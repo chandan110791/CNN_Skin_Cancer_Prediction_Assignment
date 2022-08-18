@@ -31,12 +31,10 @@ NOTE: We have not  used any pre-trained model using Transfer learning. All the m
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-	-  We used data The training accuracy seems to be nearly ~90%.
+	- We used data The training accuracy seems to be nearly ~93%.
 	- The validation accuracy is nearly ~80%.
         - We Rectified class imbalances present in the training dataset with Augmentor library. Model Building & training on the rectified class imbalance data: This has helped treat the overfitting to quite extent.
-        - Create a CNN model, which can accurately detect 9 classes present in the dataset. While building the model rescale images to normalize pixel values between (0,1).
-        - Choose an adam optimiser and categorical_crossentropy loss function for model training
-        - Train the model for ~30 epochs
+        - With an increase in more epochs and more layers , using regularisation techniques like [Dropout and l2], normalisation we see an increase in efficiency of model .
 
     
 

@@ -1,4 +1,4 @@
-# Project Name
+# Skin_Cancer_Prediction_Assignment
 > We will build a multiclass classification model using a custom convolutional neural network in tensorflow to detect a skin cancer - melanoma.
 
 
